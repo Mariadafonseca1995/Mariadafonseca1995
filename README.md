@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Mariadafonseca1995
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Front-end
+- 💞️ I’m looking to collaborate on front-end work.
+- 📫 How to reach me: 	mariadafonseca.code@gmail.com
+- 😄 Pronouns: Her.
+- ⚡ Fun fact: I love dogs, coffe and the sea ;)
